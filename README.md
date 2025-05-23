@@ -20,7 +20,7 @@
 
 ---
 
-##  Assignment Summary
+##  Summary
 
 With Bangladesh rapidly evolving into a digital-first economy, the country faces growing exposure to cyber threats like data breaches, cyber fraud, and digital exploitation. While current legislation such as the ICT Act (2006) and the Cyber Security Act (2023) address these issues, there is a pressing need for modern reforms aligned with global standards.
 
@@ -96,32 +96,32 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ##  Key Challenges in Bangladeshi Cyber Law
 
-- 🧾 **Ambiguity:** Terms like “national interest” or “defamation” are vaguely defined.
-- ⚖️ **Enforcement Imbalance:** Laws prioritize control over citizen rights.
-- 📉 **Technological Lag:** Policies haven’t caught up with emerging threats like deepfakes, AI misuse, or algorithmic bias.
-- 🧍 **Lack of Legal Literacy:** Citizens and law enforcement lack proper training and awareness of digital rights.
+-  **Ambiguity:** Terms like “national interest” or “defamation” are vaguely defined.
+-  **Enforcement Imbalance:** Laws prioritize control over citizen rights.
+-  **Technological Lag:** Policies haven’t caught up with emerging threats like deepfakes, AI misuse, or algorithmic bias.
+-  **Lack of Legal Literacy:** Citizens and law enforcement lack proper training and awareness of digital rights.
 
 ---
 
 
 ##   Reform Proposals for Bangladesh
 
-### 🔐 1. Enact a Unified Cybersecurity Code
+###  1. Enact a Unified Cybersecurity Code
 Combine existing cyber-related laws into a single, comprehensive, and coherent legal framework.
 
-### 🔍 2. Introduce a Personal Data Protection Law
+###  2. Introduce a Personal Data Protection Law
 Ensure informed consent, transparent processing, and user ownership of personal data, modeled after GDPR.
 
-### 🏛 3. Reform the Digital Security Act
+### 3. Reform the Digital Security Act
 Remove or clarify problematic clauses. Add provisions for judicial oversight and citizen grievance redressal.
 
-### ⚖️ 4. Set Up Specialized Cyber Tribunals
+###  4. Set Up Specialized Cyber Tribunals
 Create dedicated courts with trained judges and prosecutors to ensure fast and fair adjudication of cybercrimes.
 
-### 📚 5. Launch Digital Literacy and Cyber Awareness Programs
+###  5. Launch Digital Literacy and Cyber Awareness Programs
 Educate users on data protection, digital ethics, and safe online behavior through nationwide campaigns.
 
-### 🤝 6. Encourage Public-Private Partnerships
+###  6. Encourage Public-Private Partnerships
 Involve tech firms, academic institutions, and civil society in shaping and auditing cyber laws.
 
 
@@ -139,13 +139,13 @@ This project advocates for a **progressive legal architecture**—one that prior
 
 ## 🔗 References and Resources
 
-### 🏛 Bangladeshi Legal Documents
+###  Bangladeshi Legal Documents
 - [Digital Security Act, 2018](https://bdlaws.minlaw.gov.bd/act-1261.html)
 - [ICT Act, 2006](http://bcc.gov.bd/site/page/4ac2c9e4-b1c6-4aa5-8c41-768f86d9a68f)
 - [Right to Information Act, 2009](https://bdlaws.minlaw.gov.bd/act-details-1005.html)
 - [Telecommunication Act, 2001](https://bdlaws.minlaw.gov.bd/act-details-828.html)
 
-### 🌍 Global Legal Frameworks
+###  Global Legal Frameworks
 - [EU GDPR](https://gdpr.eu)
 - [US CFAA](https://www.law.cornell.edu/uscode/text/18/1030)
 - [India IT Act](https://www.meity.gov.in/content/information-technology-act)
@@ -154,4 +154,4 @@ This project advocates for a **progressive legal architecture**—one that prior
 
 ---
 
-> *This project is an academic submission for CSE 455 at HSTU. All sources have been appropriately cited.*
+> *This project is an academic submission for CSE 455 at HSTU. *
