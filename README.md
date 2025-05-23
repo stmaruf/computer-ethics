@@ -7,12 +7,12 @@
 
 ---
 
-## 👨‍🎓 Submitted By
+##  Submitted By
 
 **Name:** Zamil Hossain Maruf  
 **Student ID:** 2002050 
 
-## 👨‍🏫 Submitted To
+##  Submitted To
 
 **Instructor:** Pankaj Bhowmik  
 **Position:** Lecturer  
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Assignment Summary
+##  Assignment Summary
 
 With Bangladesh rapidly evolving into a digital-first economy, the country faces growing exposure to cyber threats like data breaches, cyber fraud, and digital exploitation. While current legislation such as the ICT Act (2006) and the Cyber Security Act (2023) address these issues, there is a pressing need for modern reforms aligned with global standards.
 
@@ -28,7 +28,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-## 📚 Contents
+##  Contents
 
 - [Overview of Cyber Laws in Bangladesh](#overview-of-cyber-laws-in-bangladesh)
 - [Global Cybersecurity Practices](#global-cybersecurity-practices)
@@ -38,7 +38,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-## 📖 Overview of Cyber Laws in Bangladesh
+##  Overview of Cyber Laws in Bangladesh
 
 ### 🔹 Digital Security Act (2018)
 - Criminalizes hacking, identity fraud, and digital subversion.
@@ -62,7 +62,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-## 🧾 Summary of Existing Cyber Laws in Bangladesh
+##  Summary of Existing Cyber Laws in Bangladesh
 
 | Law/Act                          | Key Objective                                      | Key Issues/Limitations                                 |
 |----------------------------------|----------------------------------------------------|--------------------------------------------------------|
@@ -74,7 +74,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-## 🌍 International Legal Frameworks Reviewed
+##  International Legal Frameworks Reviewed
 
 | Country        | Law/Model                         | Focus Area                            |
 |----------------|----------------------------------|----------------------------------------|
@@ -84,7 +84,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 | **Singapore**     | Cybersecurity Act, 2018              | Critical infrastructure protection      |
 
 ---
-## 🧠 Key Learnings from Global Models
+##  Key Learnings from Global Models
 
 - **Clarity and Specificity:** Avoiding vague legal language to reduce misuse.
 - **Civil Liberties First:** Laws should align with democratic values and international human rights.
@@ -94,7 +94,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-## 🧠 Key Challenges in Bangladeshi Cyber Law
+##  Key Challenges in Bangladeshi Cyber Law
 
 - 🧾 **Ambiguity:** Terms like “national interest” or “defamation” are vaguely defined.
 - ⚖️ **Enforcement Imbalance:** Laws prioritize control over citizen rights.
@@ -104,7 +104,7 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 ---
 
 
-##  🛠️ Reform Proposals for Bangladesh
+##   Reform Proposals for Bangladesh
 
 ### 🔐 1. Enact a Unified Cybersecurity Code
 Combine existing cyber-related laws into a single, comprehensive, and coherent legal framework.
@@ -127,7 +127,7 @@ Involve tech firms, academic institutions, and civil society in shaping and audi
 
 ---
 
-## 🧠 Final Thoughts
+##  Final Thoughts
 
 Bangladesh's journey into the digital future depends on how well it protects its citizens in the online realm. Outdated or overly restrictive laws can hinder innovation, erode public trust, and infringe on rights. To thrive in the global digital economy, Bangladesh must adopt **cyber laws that are clear, just, and internationally aligned**.
 
