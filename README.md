@@ -28,16 +28,6 @@ This project evaluates Bangladesh's existing cyber laws and suggests reforms bas
 
 ---
 
-##  Contents
-
-- [Overview of Cyber Laws in Bangladesh](#overview-of-cyber-laws-in-bangladesh)
-- [Global Cybersecurity Practices](#global-cybersecurity-practices)
-- [Key Reform Strategies](#key-reform-strategies)
-- [Final Thoughts](#final-thoughts)
-- [References](#references)
-
----
-
 ##  Overview of Cyber Laws in Bangladesh
 
 ### 🔹 Digital Security Act (2018)
